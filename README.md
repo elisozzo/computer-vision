@@ -10,4 +10,4 @@ Each slot is processed through SIFT feature extraction, Bag of Visual Words enco
 - `FINAL_PROJECT.ipynb` – Main implementation using Bag of Visual Words + SVC  
 - `proCV.ipynb` – Dynamic approach for multiple images and ground truth parsing
 
-More details in the report "FINAL_PROJECT_COMPUTER_VISION.pdf".
+More details in the report "FINAL PROJECT COMPUTER VISION.pdf".
